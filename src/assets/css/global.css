@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+Add Fonts
+Extend in tailwind.config.js
+
+@layer base {
+	@font-face {
+		font-family: 'TypefaceName';
+		font-weight: 100;
+		src: url('~@/assets/fonts/typeface/weight/TypefaceName-Thin.woff2') format('woff2'),
+				 url('~@/assets/fonts/typeface/weight/TypefaceName-Thin.woff') format('woff'),
+				 url('~@/assets/fonts/typeface/weight/TypefaceName-Thin.ttf') format('truetype');
+	}
+}
+*/

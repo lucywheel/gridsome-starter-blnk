@@ -1,0 +1,18 @@
+{
+  "email": {
+    "title": "Email",
+    "link": "mailto:contact@angievella.com"
+  },
+  "twitter": {
+    "title": "Twitter",
+    "link": "https://www.twitter.com/angiemvella"
+  },
+  "github": {
+    "title": "Github",
+    "link": "https://github.com/angiemvella/"
+  },
+  "linkedin": {
+    "title": "LinkedIn",
+    "link": "https://www.linkedin.com/in/angiemvella/"
+  }
+}
