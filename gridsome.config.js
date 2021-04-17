@@ -9,7 +9,7 @@ const tailwindcss = require('tailwindcss');
 module.exports = {
   siteName: 'Gridsome Starter - BLNK',
   siteDescription: 'BLNK is a super basic starter for Gridsome.',
-  siteURL: 'https://gridsome-starter-blnk.netlify.app',
+  siteUrl: 'https://gridsome-starter-blnk.netlify.app',
   titleTemplate: '',
   metadata: {
     author: 'Angie Vella',
