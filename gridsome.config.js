@@ -9,7 +9,7 @@ const tailwindcss = require('tailwindcss');
 module.exports = {
   siteName: 'Gridsome Starter - BLNK',
   siteDescription: 'BLNK is a super basic starter for Gridsome.',
-  siteURL: '',
+  siteURL: 'https://gridsome-starter-blnk.netlify.app',
   titleTemplate: '',
   metadata: {
     author: 'Angie Vella',
@@ -40,18 +40,18 @@ module.exports = {
       options: {
         exclude: ['/404']
       }
-    },
+    }
 
     // Plausible Analytics
     // https://gridsome.org/plugins/gridsome-plugin-plausible-analytics
     // yarn add gridsome-plugin-plausible-analytics
-    {
-      use: 'gridsome-plugin-plausible-analytics',
-      options: {
-        dataDomain: '',
-        outboundLinkTracking: true,
-      }
-    }
+    // {
+    //   use: 'gridsome-plugin-plausible-analytics',
+    //   options: {
+    //     dataDomain: '',
+    //     outboundLinkTracking: true,
+    //   }
+    // }
   ],
 
   // Transformer Remark
